@@ -1,0 +1,55 @@
+.container-table{
+    margin: 10% 10% 10% 30% ;
+    padding: 2.5rem;
+    width: 35%;
+    height: 380px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.5s;
+    animation: ease-in;
+    border-radius: 15px;
+    background-color: white;
+  
+ 
+}
+
+.container-table:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+
+.content-table {
+    text-align: center;
+}
+
+.title-table {
+
+   border-bottom: 1px solid #299ac1;
+   margin-bottom: 2rem;
+
+}
+
+.title-table h1{
+    margin: 0%;
+}
+
+.link-table {
+  color: #299ac1;
+
+}
+
+.info-table {
+    
+    display: flex;
+    border-bottom: 1px solid black;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+}
+
+.info-table p {
+    font-weight: bold;
+    margin: 0%;
+    margin-right: 10px;
+    
+}

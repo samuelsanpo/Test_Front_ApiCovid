@@ -1,0 +1,26 @@
+
+.container {
+    text-align: center;
+    margin: 5%;
+  }
+  
+.title{
+    color: white;
+    display: flex;
+    border-bottom: 1px  solid white;
+    margin-bottom: 2rem;
+  
+
+  }
+
+  .title h1 {
+      width: 100%;
+  }
+
+.input {
+    width: 80%;
+    height: 30px;
+    margin-top: 2rem;
+    margin-right: 5rem;
+    border-radius: 5px;
+}
